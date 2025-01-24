@@ -22,7 +22,7 @@ import React from 'react'
                         </a>
                     </div>
                     <div className='sb_fotter-links-div'>
-                        <h4>AKash</h4>
+                        <h4>Resources</h4>
                         <a href='/'>
                             <p>Employee</p>
                         </a>
