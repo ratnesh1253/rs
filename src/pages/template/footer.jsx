@@ -21,7 +21,7 @@ import React from 'react'
                             <p>abc</p>
                         </a>
                     </div>
-                    <div className='sb_fotter-links-div'>
+                    <div className='sb_footer-links-div'>
                         <h4>Resources</h4>
                         <a href='/'>
                             <p>Employee</p>
@@ -36,6 +36,29 @@ import React from 'react'
                             <p>abc</p>
                         </a>
                     </div>
+                    <div className='sb_footer-links-div'>
+                        <h4>Partners</h4>
+                        <a href='/'>
+                            <p>Employee</p>
+                        </a>
+            
+                    </div>
+                    <div className='sb_footer-links-div'>
+                        <h4>Resources</h4>
+                        <a href='/'>
+                            <p>Employee</p>
+                        </a>
+                        <a href='/'>
+                            <p>Employee</p>
+                        </a>
+                        <a href='/'>
+                            <p>xyz</p>
+                        </a>
+                        <a href='/'>
+                            <p>abc</p>
+                        </a>
+                    </div>
+                    
                     
                 </div>
             </div>
